@@ -1,3 +1,3 @@
 # horizontal-scroll-gsap
-Horizontal scroll made with [GSAP](https://greensock.com/gsap/).
+Horizontal scroll made with [GSAP](https://greensock.com/gsap/).__
 Visit [Demo](https://horizontal-scroll-gsap.vercel.app/)
