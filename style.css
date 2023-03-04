@@ -28,6 +28,7 @@ body {
 }
 
 .section {
+	user-select: none;
 	height: 100%;
 	width: 100vw;
 	font-weight: bold;
